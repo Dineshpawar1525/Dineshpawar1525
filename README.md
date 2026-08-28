@@ -9,15 +9,17 @@ with **Machine Learning, Generative AI and modern web technologies.**
 
 <br/>
 
-<a href="https://github.com/Dineshpawar1525">
-  <img src="https://img.shields.io/badge/GitHub-Dineshpawar1525-181717?style=flat-square&logo=github"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-pawardinesh1525?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-dineshpawar1525/?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Dineshpawar1525">
+    <img src="https://img.shields.io/badge/GitHub-Dineshpawar1525-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:pawardinesh1525@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dineshpawar1525/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
