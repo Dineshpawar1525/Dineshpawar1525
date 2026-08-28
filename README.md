@@ -1,148 +1,105 @@
-<div align="center">
-
 # Dinesh Pawar
 
-### AI & Data Science Engineer · AI/ML · Full-Stack Development
+**Artificial Intelligence & Data Science Engineer · Software Developer · AI/ML & Full-Stack Enthusiast**
 
-Building intelligent systems and practical software products  
-with **Machine Learning, Generative AI and modern web technologies.**
+I'm a B.E. Artificial Intelligence & Data Science student building practical software and AI-powered applications. My work spans machine learning, backend development, and full-stack engineering — from model design to shipped, usable products. Currently strengthening core CS fundamentals and DSA alongside project work.
 
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Dineshpawar1525">
-    <img src="https://img.shields.io/badge/GitHub-Dineshpawar1525-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:pawardinesh1525@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dineshpawar1525/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## Profile
-
-I am a **B.E. Artificial Intelligence & Data Science student** focused on
-building applications at the intersection of **AI and software engineering**.
-
-My work spans the complete development cycle — from data and ML models
-to backend services, APIs, databases and user-facing applications.
-
-Currently strengthening **Java, Data Structures & Algorithms** while continuing
-to build projects in **AI/ML, Generative AI and Full-Stack Development**.
-
----
-
-## Technical Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-`Machine Learning` · `Deep Learning` · `NLP` · `Generative AI` · `LLM APIs`
-
-### Full-Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</p>
-
-`REST APIs` · `Frontend Development` · `Backend Development`
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="left">
+  <a href="https://github.com/Dineshpawar1525"><img src="https://img.shields.io/badge/GitHub-Dineshpawar1525-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dineshpawar1525/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pawardinesh1525@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-# Selected Projects
+## About Me
 
-### 🌾 KrushiSetu
-**AI & Full-Stack Agriculture Platform**
+- 🎓 B.E. Artificial Intelligence & Data Science — expected graduation April 2027 (CGPA 8.52)
+- 💻 Focused on Software Engineering, AI/ML, and Full-Stack Development
+- 🤖 Building applications that combine machine learning with real-world usability
+- 🧠 Strengthening DSA, OOP, and core CS fundamentals
+- 🛠️ Prefer working on projects that solve practical, tangible problems
 
-An agriculture-focused application combining intelligent features with
-full-stack development to address practical agricultural use cases.
+---
 
+## Tech Stack
+
+**Languages**
+`Java` `Python` `JavaScript` `C++` `SQL` `HTML` `CSS`
+
+**Frontend**
+`React.js`
+
+**Backend**
+`Node.js` `Express.js` `REST APIs`
+
+**Databases**
+`MongoDB` `MongoDB Atlas` `MySQL`
+
+**AI / ML**
+`Machine Learning` `Deep Learning` `NLP` `Generative AI` `LLM APIs` `TensorFlow` `PyTorch`
+
+**Tools**
+`Git` `GitHub`
+
+---
+
+## Featured Projects
+
+### AIHealthPro
+AI-powered healthcare application combining LVEF (cardiac) prediction, EHR/health-report summarization, and a disease-prediction chatbot into one platform.
+`Python` `Machine Learning` `NLP` `LLM APIs` `React.js` `Node.js` `MongoDB`
+[Repository](https://github.com/Dineshpawar1525/AIHealthPro)
+
+### KrushiSetu
+Full-stack smart farming platform — React frontend for farmers, Node/Express + MongoDB backend, with Python AI services for disease detection, crop recommendation, and yield prediction.
 **Role:** AI & Full-Stack Developer
+`React.js` `Node.js` `MongoDB` `Python` `AI/ML`
+[Repository](https://github.com/Dineshpawar1525/Krushi-setu-)
 
-`AI/ML` `React.js` `Node.js` `MongoDB`
+### BookMind AI
+Generative AI web app for book assistance — upload a book, generate summaries, ask questions about the content, and get personalized recommendations.
+`Generative AI` `LLM APIs` `JavaScript`
+[Repository](https://github.com/Dineshpawar1525/BookMind-AI-A-Generative-AI-Based-Book-Assistant)
 
-→ **[View Repository](https://github.com/Dineshpawar1525/Krushi-setu-)**
-
----
-
-### ❤️ AIHealthPro
-**AI-Powered Healthcare Application**
-
-A healthcare-focused AI application combining multiple intelligent modules,
-including prediction, health-report processing and conversational assistance.
-
-**Core Modules**
-
-- LVEF prediction
-- EHR / health-report summarization
-- Disease prediction chatbot
-- Machine-learning prediction models
-
-**Technology Focus**
-
-`Python` `Machine Learning` `NLP` `LLM APIs` `React.js` `Node.js`
-
----
-
-### 🗺️ RouteOptima
-**Smart Route Navigation & Optimization**
-
-A route-navigation project focused on finding optimized paths using
-algorithmic approaches.
-
+### RouteOptima
+Smart route navigation system built on Dijkstra's algorithm for optimized pathfinding.
 **Role:** Software Developer
-
 `JavaScript` `Algorithms` `Route Optimization`
+[Repository](https://github.com/Dineshpawar1525/Route-Optima-pro-using-Dijkstra-Algorithm)
+
+### SARAL Sahayak
+Chatbot-based assistant designed to help users navigate government services and information.
+`Chatbot` `NLP`
+[Repository](https://github.com/Dineshpawar1525/saral-sahayak-gov-services-chatbot)
+
+### Fake News Detection
+Machine learning project for classifying news content as fake or credible.
+`Python` `Machine Learning`
+[Repository](https://github.com/Dineshpawar1525/fake-news-detection)
 
 ---
 
-# Engineering Focus
+## GitHub Stats
 
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Deep Learning
-        ├── NLP
-        └── Generative AI
-                │
-                ▼
-        Backend & APIs
-                │
-                ├── Node.js
-                └── Express.js
-                │
-                ▼
-        Data Layer
-                │
-                ├── MongoDB
-                └── MySQL
-                │
-                ▼
-        Frontend
-                │
-                └── React.js
-                │
-                ▼
-        Real-World Applications
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshpawar1525&theme=default&hide_border=true" height="150" />
+</p>
+
+---
+
+### Currently Focused On
+
+- Strengthening Data Structures & Algorithms
+- Building production-oriented AI/ML applications
+- Improving backend and full-stack development
+- Learning modern Generative AI / LLM technologies
+
+---
+
+### Let's Connect
+
+Open to discussing software engineering, AI/ML, full-stack development, and internship opportunities.
+
+**Email:** pawardinesh1525@gmail.com
+**LinkedIn:** [linkedin.com/in/dineshpawar1525](https://www.linkedin.com/in/dineshpawar1525/)
